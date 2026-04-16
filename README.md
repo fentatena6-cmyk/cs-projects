@@ -7,11 +7,12 @@ Welcome to my first GitHub repository! I am a Computer Science student and I'm u
 ### 💻 Languages & Tools:
 * **C++** (OpenGL & GLUT for Graphics)
 * **Python** (Machine Learning & Data Analysis)
-* **Web Dev** (HTML & CSS)
+* **Web Dev** (HTML , react js,javascript& CSS)
 
 ### 📚 Current Interests:
 * Computer Graphics & Image Processing
 * Machine Learning (Random Forest, etc.)
 * Embedded Systems
+* design&analysis of algorithm
 
 "Learning one step at a time!"
